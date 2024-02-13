@@ -53,6 +53,16 @@ ul {
   list-style-type: none;
 }
 
+button {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+
+.currency {
+  font-weight: 400px;
+}
+
 @media screen and (min-width: 480px) {
   html {
     --container: 640px;
